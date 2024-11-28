@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddtn1119
 - 👀 I’m interested in technology, music, art, anime, travel, and popular culture.
-- 🌱 I’m learning Computer Science.
+- 🌱 I’m learning Computer Science. My interests are data science, Artificial Intelligence (AI), Machine Learning (ML), cybersecurity, and web and game development.
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 You can reach me at duyynguyen39@gmail.com
 
